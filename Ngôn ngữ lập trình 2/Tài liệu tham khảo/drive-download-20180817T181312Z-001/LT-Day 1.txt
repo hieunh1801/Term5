@@ -1,0 +1,25 @@
+﻿- Cài IBM RationRose
+- Bài tập 1: 
+Xây Dưng công cụ tương tác với facebook
++ Thêm tài khoản facebook:
+ - Tự quét danh sách friends
+ - Tự đọc các topic ( post)
+ - Tự comment
+ - Tự like
++ Tóm tắt nội dung:
+ - Chủ đề: ( Tách keyword(chuỗi - count mảng các từ) tra trong từ điển)
+- Bài tập 2:
+Giả sử có n nguồn data ( RSS, WebcopyHTML)
+ - Đọc n file HTML
+ - Tóm tắt các file này
+- Bài tập 2:
+Kiểm tra độ trung lặp của các báo cáo đồ án tốt nghiệp/bài tập lớn:
+- file doc,docx,pdf< đếm, tính tần sất lặp>
+- tính và so sánh chuỗi lặp ở vị trí và xác suất bao nhiêu:
+
+- Game Mecung:
+ + Cho 1 ma trận mxn
+Chướng ngại vật: (1 = có, 0 = không có)
+////////////////
+Hệ tuần hoàn mendeleev///// 
+0988520525

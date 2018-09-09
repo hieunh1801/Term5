@@ -1,0 +1,33 @@
+Bài 1: Nhập xuất cơ bản
+    - String
+    - Bool 
+    - Datetime
+Bài 2: Thiết kế hướng đối tượng [Java]
+    - Class SinhVien
+        - State :
+            private int ID;
+            private string hoTen;
+            private bool gioiTinh;
+            private string maLop;
+            private DateTime ngaySinh;
+        - Method: 
+            public SinhVien()
+            public void Nhap()
+            public void Xuat()
+            public int IDSinhVien() : get, set
+    - Class DanhSachSinhVien
+        - State:
+            private int numberOfSinhVien;
+            private SinhVien[] arrSinhVien;
+        - Method:
+            public DanhSachSinhVien()
+            public DanhSachSinhVien(int _N)
+            public int TimKiemTheoID(int _ID)
+Bài 3: Thao tác trên mảng
+Bài 4: Thao tác trên String && RegularExpression
+Bài 5: 
+Bài 6: 
+Bài 7: 
+Bài 8: 
+Bài 9: 
+

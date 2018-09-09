@@ -1,0 +1,34 @@
+1. Install
+    - Visual Studio 10
+    - SQL server 2012
+    - Ngôn ngữ C# use .Net framework
+    - IBM Ro  Rose
+2. Nội dung
+    - Chương 1: .Net framework
+    - Chương 2: Các kiểu dữ liệu cơ bản
+    - Chương 3: Lập trình hướng đối tượng C#
+        - Cách thiết kế hướng đối tượng 
+        - Template
+    - Chương 4: Các cấu trúc dữ liệu trên C#
+        - ArrayList, Generic
+    - Chương 5: Winform <Focus>
+        - Tạo ra giao diện, phần mềm quản lý trên nền tảng Window
+    - Chương 6: ADO .Net <Focus>
+        - Là tập các thư viện chuyên liên kết với các Database
+        - Để bảo mật dùng Oracle , MySql, SQL server
+
+3. Hình thức thi: Làm bài tập lớn 1sv/1bài
+
+4. 
+- Quản lý phiên của dữ liệu trên SQL
+- Kiểm tra tính đúng đắn của dữ liệu khi thêm dữ liệu <Không bị rác>
+
+5. Đánh giá
+- Buổi 5: 1 Bài tập / chuyên cần
+- Buổi 10:  1  bài kiểm tra / thường xuyên
+
+6. Tài liệu
+- Giáo trình Aptech
+- Lập trình C# - Phạm Văn Ất
+- Quy định về viết code <Microsoft> <Focus>
+

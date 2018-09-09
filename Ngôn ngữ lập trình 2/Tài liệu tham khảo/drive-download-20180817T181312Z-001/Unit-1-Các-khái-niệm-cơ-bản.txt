@@ -1,0 +1,42 @@
+1. Giới thiệu 
+    .Net framwork là môi trường trung gian để buil trên mọi nền tảng Plaform (giống với Java)
+Ưu điểm: tạo ra sản phẩm nhanh - đẹp
+Nhược điểm: 
+    - Phải thực thi  qua trung gian: dịch qua byte code ->  ra file nhị phân
+    >> chậm hơn dịch thẳng từ C/C++
+    - Không thể bảo mật vì có các chương trình dịch ngược lại vì phải buil qua môi trường trung gian
+- Sử dụng C/C++ dịch thẳng ra nhị phân >> cực nhanh
+
+2. Bài tập nhóm(2-3 người)
+    - Bài 1: Xây dựng giao diện tương tác FB
+        - Lập thêm tài khoản facebook 
+            - Tự quét danh  sách bạn bè
+            - Tự đọc các topic, post 
+            - Tự comment
+            - Tự like (có luật đi kèm)
+        - Tóm tắt nội dung (trending) <Sử dụng nguyên tắc về thống kê>
+            - Chủ đề : Văn hóa, thể thao, du lịch, đồ điện tử (Chia ra và phân loại)
+                - Tách ra các từ bóng đá, thể thao, Ronandol <keyword><số lần>
+                    >> ra mảng các từ :  bóng đá : 20 lần
+                - Tra trong từ điển 
+                - Đo tới các tọa độ và xác định được nhãn của nó
+    
+    - Bài 2: Giả sử có n nguồn dữ liệu : RSS, Webcopy
+        - Viết chương  trình đọc n file  HTML
+        - Tóm tắt các bài này
+    
+    - Bài 3: Kiểm tra độ trùng lặp của các báo cáo đồ án tốt nghiệp, bài tập lớn
+        <Hệ thống chống sao chép luận văn>
+        - File doc, docx, pdf <đếm, tính tần suất, ...><của các từ>
+        - Tìm, so sánh chuỗi >> đã bị sao chép, ở vị trí nào, xác suất bao nhiêu% <so sánh về đoạn văn>
+    
+    - Bài 4: <Game 1> Mê cung
+        - Cho 1 ma trận m.n 
+        - Chướng ngại vật random (1: có, 0: 0)
+        - Bài toán tìm đường đi ngắn nhất ra khỏi mê cung
+        - Tìm các đường đi có thể có
+
+    - Bài 5: <Game 2> <Đồ thị>
+        - Cho n điểm xe bus và các cung <đồ thị có hướng, có trọng số>
+        - Trọng số là thời gian di chuyển từ điểm A -> B 
+        - Hỏi có thể đi từ điểm A -> B và thời gian đi ngắn nhất là bao nhiêu

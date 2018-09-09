@@ -1,0 +1,12 @@
+1. Hệ điều hành là gì?
+    - Là phần mềm trung gian giữa người dùng và máy tính
+    - Là nền tảng để chạy các chương trình khác
+    - Là phần mềm có chức năng khai thác phần cứng tiện lợi hơn, trải nghiệm tốt hơn
+
+    BIOS (basic input output system ) ->  Linnux 
+    <nằm trong ROM>
+2. Các thành phần của máy tính
+    a. Hardware 
+        CPU (CU,ALU)
+        RAM(chương trình muốn hoạt động thì phải nạp vào trong RAM, kể cả OS 
+            <Win10 > 1GB >
